@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/My hanamikojika.iml" filepath="$PROJECT_DIR$/.idea/My hanamikojika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hanamikojika/hanamikoji.iml" filepath="$PROJECT_DIR$/hanamikojika/hanamikoji.iml" />
+    </modules>
+  </component>
+</project>
